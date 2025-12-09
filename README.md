@@ -8,7 +8,7 @@
   <a href="https://github.com/kurokoxl">
     <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-blue?style=for-the-badge&logo=microsoft" />
   </a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/youssef-abdelazim-9b6a8325b)">
+  <a href="https://www.linkedin.com/in/youssef-abdelazim-9b6a8325b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
