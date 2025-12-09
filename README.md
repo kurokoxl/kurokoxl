@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -31,8 +31,8 @@
 ### ⚡ GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurokoxl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurokoxl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" height="150" />
 </p>
 
 </div>
