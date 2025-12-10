@@ -4,14 +4,7 @@
 
 ### 🚀 Backend Developer | .NET Enthusiast
 
-<p>
-  <a href="https://github.com/kurokoxl">
-    <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-blue?style=for-the-badge&logo=microsoft" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-abdelazim-9b6a8325b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
 
 ---
 
@@ -26,5 +19,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/youssef-abdelazim-9b6a8325b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 </div>
