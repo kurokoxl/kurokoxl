@@ -2,7 +2,7 @@
 
 # Hi there, I'm Youssef Abdelazim 👋
 
-### 🚀 Backend Developer | .NET Enthusiast
+### 🚀 Backend Developer
 
 
 
